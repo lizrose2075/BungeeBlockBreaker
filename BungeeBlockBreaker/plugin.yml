@@ -1,0 +1,10 @@
+main: com.elizabeth.bungeeblockbreaker.Main
+name: BungeeBlockBreaker
+version: 1.0
+
+commands:
+   arena:
+
+author: betty
+description: This plugin implements a 1 player block breaker minigame!
+api-version: 1.16
